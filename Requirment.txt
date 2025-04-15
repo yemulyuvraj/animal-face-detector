@@ -1,0 +1,15 @@
+FrameWork Requirments 
+TensorFlow 
+Python 3.10 
+ Flask 
+ Numpy 
+ Panda
+ Matplotlib
+ Seaborn
+ MobileNetV2
+ MTCNN 
+ Scikit-Learn
+Open-CV
+Html
+CSS
+JS
